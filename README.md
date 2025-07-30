@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes 
+The project that I am currently working on is to make a basic recipe website. This is demonstrate what I have learnt so far throughout the beginners programme - Creating different pages, links, ordered and unordered lists, aswell as several commit messages. I am hoping that once I have completed this lesson it may click some what for me.
